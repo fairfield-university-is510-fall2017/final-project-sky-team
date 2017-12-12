@@ -24,3 +24,17 @@ As you check out the dataset, keep the following in mind:
 * It was originally created on June 16, 2016.
 * It was last updated on October 31, 2017.
 * If you wish to use the data for other purposes, it is our recommendation that you do the analysis on a period-over-period basis (such as November 2010 vs. November 2011). Don't just take it from us - that's what the city recommends, too. Anyone who knows anything about the airline industry can tell you why: it's better to compare apples-to-apples, and just like many other industries, the airlines have their busy seasons, and they measure their financial and operational performance in relation to each others' seasons.
+
+## Analysis
+Having the data is one thing, but utilizing it to extract useful, informative trends is another. We performed an analysis centering on the following concepts outlined below, with a brief description of what we found below them. For the full details, we encourage you to view the full report!
+
+### What did we analyze?
+We set out to perform the following operations with the data:
+* Organizing key, mission-critical aspects of the data into tables and DataFrames using SQL.
+* Analyzing terminal usage metrics.
+* Determining the number of passengers throughout the duration of this dataset who participated in each of the `ActivityTypeCode`s.
+* Examining passenger metrics to see if a pattern exists among seasonal capacity of flights at SFO.
+* Considering the geographic dimensions of passenger activity.
+* Observing the fleet composition of carriers included in the dataset.
+* Observing the diversity of equipment types that frequent SFO.
+* Organizing the number of landings on a carrier-by-carrier basis in a DataFrame.
