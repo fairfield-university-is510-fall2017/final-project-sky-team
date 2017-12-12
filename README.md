@@ -25,6 +25,10 @@ As you check out the dataset, keep the following in mind:
 * It was last updated on October 31, 2017.
 * If you wish to use the data for other purposes, it is our recommendation that you do the analysis on a period-over-period basis (such as November 2010 vs. November 2011). Don't just take it from us - that's what the city recommends, too. Anyone who knows anything about the airline industry can tell you why: it's better to compare apples-to-apples, and just like many other industries, the airlines have their busy seasons, and they measure their financial and operational performance in relation to each others' seasons.
 
+### Our Project ERD
+Here's the ERD we meticulously planned out:
+![If you're reading this, you may be using an assistive technology, or for whatever reason your browser failed to render the imgae. Maybe now is a good time to recommend Firefox Quantum to you?](ProjectERD.png)
+
 ## Analysis
 Having the data is one thing, but utilizing it to extract useful, informative trends is another. We performed an analysis centering on the following concepts outlined below, with a brief description of what we found below them. For the full details, we encourage you to view the full report!
 
