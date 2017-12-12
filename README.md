@@ -1,2 +1,2 @@
-# final-project-sky-team
-final-project-sky-team created by GitHub Classroom
+# The Sky Team's Final Project: All About SFO
+### by Trang Vu & Anthony Iorio
