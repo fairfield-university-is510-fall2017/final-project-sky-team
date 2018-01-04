@@ -27,7 +27,7 @@ As you check out the dataset, keep the following in mind:
 
 ### Our Project ERD
 Here's the ERD we meticulously planned out:
-![If you're reading this, you may be using an assistive technology, or for whatever reason your browser failed to render the imgae. Maybe now is a good time to recommend Firefox Quantum to you? :-)](ProjectERD.png)
+![If you're reading this, you may be using an assistive technology, or for whatever reason your browser failed to render the image. Maybe now is a good time to recommend Firefox Quantum to you? :-)](ProjectERD.png)
 
 ## Analysis
 Having the data is one thing, but utilizing it to extract useful, informative trends is another. We performed an analysis centering on the following concepts outlined below, with a brief description of what we found below them. For the full details, we encourage you to view the full report!
